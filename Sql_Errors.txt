@@ -17,13 +17,10 @@ Fatal error: Uncaught TypeError: Unsupported operand types: string + int
 4.Fatal error: Uncaught Error: Call to a member function DeleteODEntry() 
 	Solution=>
 
-strcontractpdfexthidden
 
-strhrrulepdfexthidden
 
-strholidaycalenderhidden
 
-intCompanyId
+
 
 5.Uexpected Token Error
 	Solution=> , and . mistake
