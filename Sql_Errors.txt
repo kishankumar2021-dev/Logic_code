@@ -1,10 +1,5 @@
 				-----------Sql Word Meaning---------
 					constraint =>बाधा
-
-Pending Topics
-	list in php 
-
-
 Error in mysql
 
 1.ambiguous error 
